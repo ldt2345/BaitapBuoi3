@@ -10,6 +10,9 @@ namespace Bai3
     {
         static void Main(string[] args)
         {
+            Tamgiac tg = new Tamgiac(2,2,2);
+            tg.ToString();
+            Console.ReadKey();
         }
     }
 }
